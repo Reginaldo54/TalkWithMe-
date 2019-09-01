@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TalkWithMe</string>
+    <string name="welcomeText">Olá! Bem vindo ao TalkWithMe, Para entrar insira o codigo abaixo!</string>
+    <string name="codeText">Seu Código...</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="title_activity_contacts">Contacts</string>
+</resources>
