@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199551063386",
+    "firebase_url": "https://talk-with-me-6b320.firebaseio.com",
+    "project_id": "talk-with-me-6b320",
+    "storage_bucket": "talk-with-me-6b320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199551063386:android:9a8f26263cbc14db",
+        "android_client_info": {
+          "package_name": "com.nave.talkwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199551063386-e0b3beovjbe2rcu6266ug3599ajfpmho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nave.talkwithme",
+            "certificate_hash": "1301508ed320a7a8b908649e6c3b3068018b4f15"
+          }
+        },
+        {
+          "client_id": "199551063386-lfpcthdfqqs5d7v56jiu5jshdqtjs6gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjYJVLdL1UN9n4LEqEqjgEURvU7qal1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199551063386-lfpcthdfqqs5d7v56jiu5jshdqtjs6gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

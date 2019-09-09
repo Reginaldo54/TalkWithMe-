@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TalkWithMe</string>
+    <string name="welcomeText">Olá! Bem vindo ao TalkWithMe, Para entrar insira o codigo abaixo!</string>
+    <string name="codeText">Seu Código...</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="facebook_application_id" translatable="false">419151432062908</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb419151432062908</string>
+    <string name="title_activity_contacts">Contacts</string>
+</resources>
